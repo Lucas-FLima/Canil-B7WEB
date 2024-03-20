@@ -1,6 +1,6 @@
 # Canil B7WEB
 
-Projeto feito feito no módulo do curso de Node + Typescript
+Projeto realizado no módulo do curso de Node + Typescript
 
 ### Pré-requisitos globais:
 
